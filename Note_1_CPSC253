@@ -1,0 +1,55 @@
+// CHAPTER 1
+
+1. Computer Security 
+    Measures and controls that ensure confidentiality, itegerity, and availability of information system.
+2. Data and services
+    - Confidentiality
+    - Integrity
+    - Authenticity
+        + The source needs to be the right systerm
+    - Availability
+        + Could imapact by performent
+    - Accountability
+3. Key security concepts
+4. Levels of Impact
+    - Low 
+        + You do not really care about this
+        + Public directory 
+    - Moderate
+    - High 
+5. Computer Security Challenges 
+    - Computer security is not as simple as it might first appear to the novice
+    - The techni to protect is not easy to understand
+    - The place to put computer security 
+    - Security requires regular and constant monitoring
+6. Table 1.1 - Computer security terminology, from RFC 2828
+7. Assets of a Computer system
+    - Hardware
+    - Software
+8. Vulnerabilities, Threats and Attacks
+    - Categories of vulnerabilities
+        - Corrupted 
+        - Leaky
+        - Unavailable or very slow
+    - Threats
+        - Capable of exploiting 
+        - Represent potential security harm to an assert
+    - Attacks (Threats carried out)
+9. Table 1.2
+10. Fundamental security desgin pricinciples
+    - Complete mediation - impractical, depend on the project 
+    - Least common mechanism - not a lot of sharing 
+    - Modularity - Easy to update
+    - Least astonishment 
+    - Open desgin 
+    - Psychological acceptability
+    - Layering - security in depth, how many layers 
+11. Attack surfaces 
+    - Consist of the reachable and exploitable vulnerabilities in a system.
+12. Computer security strategy
+    - Security policy
+    - Security implementation
+    - Assurance
+    - Evaluation
+13. Standards
+    - 
